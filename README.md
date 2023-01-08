@@ -1,2 +1,2 @@
-# simple vue3 app
+# simple vue3/vuex app
 a simple vuejs 3 aplication with vuex
